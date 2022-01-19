@@ -1,0 +1,5 @@
+# asks git to ignore all these files/file types when checking status or committing
+
+.DS_Store
+*.pdf
+*.zip
